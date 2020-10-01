@@ -1,2 +1,7 @@
 # BatteryUpdate
-A FUN PYTHON SCRIPT WHICH WARNS YOU OF OVER-CHARGING AND ALSO OF LOW BATTERY POWER!
+A fun python script which warns you of over-charging and also of low batter power.
+
+#### Usage
+```
+python battery.py
+```
